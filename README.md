@@ -4,8 +4,6 @@
 
 # web3.js - Ethereum JavaScript API
 
-[![NPM Package Downloads][npm-image-downloads]][npm-url] [![cdnhits][cdnhits-image]][cdnhits-url] [![Discord][discord-image]][discord-url] [![StackExchange][stackexchange-image]][stackexchange-url] [![NPM Package Version][npm-image-version]][npm-url] [![Build Status][actions-image]][actions-url]  [![Coverage Status][coveralls-image]][coveralls-url] [![Lerna][lerna-image]][lerna-url] [![Netlify Status][netlify-image]][netlify-url] [![GitPOAP Badge][gitpoap-image]][gitpoap-url] [![Twitter][twitter-image]][twitter-url]
-
 This is a modified version of the web3.js library, which only includes the `web3-eth-abi` package.
 
 ## Usage
