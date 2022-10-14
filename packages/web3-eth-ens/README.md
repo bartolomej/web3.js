@@ -19,10 +19,10 @@ npm install web3-eth-ens
 ## Usage
 
 ```js
-const eth = new Web3Eth(web3.currentProvider);
+const eth = new Web3Eth(coder.currentProvider);
 const ens = new EthEns(eth);
 
-ens.getAddress('ethereum.eth').then(function(result) {
+ens.getAddress('ethereum.eth').then(function (result) {
     console.log(result);
 });
 ```

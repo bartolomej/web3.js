@@ -443,6 +443,4 @@ ABICoder.prototype.decodeLog = function (inputs, data, topics) {
     return returnValue;
 };
 
-var coder = new ABICoder();
-
-module.exports = coder;
+module.exports = ABICoder;
